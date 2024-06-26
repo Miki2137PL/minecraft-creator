@@ -23,7 +23,7 @@ landingContent:
       - linkListType: reference
         links:
           - text: Animation Reference - Getting Started
-            url: Examples/AnimationGettingStarted.md
+            html: Examples/AnimationGettingStarted.md
           - text: Animation Reference - Upgrading Animation Scripts
             url: Examples/AnimationUpgrade.md
           - text: Animation Controllers
